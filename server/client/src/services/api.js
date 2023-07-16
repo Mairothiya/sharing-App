@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URI =  'https://blushing-blue-pike.cyclic.app';
+const API_URI =  'https://sharing-app-eta.vercel.app';
  
 export const uploadFile = async(data) =>{
     try{
