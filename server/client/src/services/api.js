@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URI =  'https://sharing-app-eta.vercel.app';
+const API_URI =  '';
  
 export const uploadFile = async(data) =>{
     try{
