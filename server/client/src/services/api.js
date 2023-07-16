@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URI =  '';
+const API_URI =  'https://blushing-blue-pike.cyclic.app';
  
 export const uploadFile = async(data) =>{
     try{
